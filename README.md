@@ -1,1 +1,1 @@
-This is Yogi's fiest git project!
+This is Yogi's first git project!
